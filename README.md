@@ -45,7 +45,7 @@ To clone this repository and run the analysis locally, follow these steps:
 Clone the repository to your local machine:
 
 Bash
-git clone https://github.com/JociasOrt/telecom-customer-churn-analysis.git
+git clone https://github.com/Jaredow604/TelecomX-challengev1.git
 Environment Setup: Ensure you have Python 3.x installed alongside a notebook environment (Jupyter).
 
 Install Dependencies:
